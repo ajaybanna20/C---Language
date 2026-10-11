@@ -1,2 +1,2 @@
 # C & C++ ---Language
-This is C language repository , here i Will upload my C code work
+This is C and C++ language repository , here i Will upload my code work
